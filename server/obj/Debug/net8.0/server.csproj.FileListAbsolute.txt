@@ -1,0 +1,152 @@
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\appsettings.json
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\server.exe
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\server.deps.json
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\server.runtimeconfig.json
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\server.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\server.pdb
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\DnsClient.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Snappier.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Sprache.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prati\Downloads\ToDo\server\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.sourcelink.json
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.csproj.Up2Date
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.dll
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\refint\server.dll
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.pdb
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+C:\Users\prati\Downloads\ToDo\server\obj\Debug\net8.0\ref\server.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\appsettings.json
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\server.exe
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\server.deps.json
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\server.runtimeconfig.json
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\server.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\server.pdb
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\DnsClient.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Snappier.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Sprache.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prati\Downloads\c_module7-main\server\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.sourcelink.json
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.csproj.Up2Date
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.dll
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\refint\server.dll
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.pdb
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+C:\Users\prati\Downloads\c_module7-main\server\obj\Debug\net8.0\ref\server.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\appsettings.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\server.exe
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\server.deps.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\server.runtimeconfig.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\server.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\server.pdb
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\DnsClient.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Snappier.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Sprache.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.csproj.AssemblyReference.cache
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.build.server.props
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\scopedcss\bundle\server.styles.css
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.csproj.Up2Date
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\refint\server.dll
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.pdb
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+C:\Users\kanja\Downloads\c_module7-main (1)\c_module7-main\server\obj\Debug\net8.0\ref\server.dll
